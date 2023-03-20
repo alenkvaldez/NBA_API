@@ -2,7 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Scripts![NBA_API](https://user-images.githubusercontent.com/116237490/226263658-c8688885-72c7-4118-a9cb-1629afcfee85.jpg)
+
 
 In the project directory, you can run:
 
