@@ -8,3 +8,5 @@ The package includes a number of modules for different aspects of the API, such 
 The package provides a number of functions for retrieving various types of data from the NBA Stats API, such as player information, game summaries, team rosters, and more. The data is returned in JSON format, which can be easily processed by React.
 
 This application is designed to provide a convenient way for developers to retrieve data from the NBA Stats API. It includes multiple modules for different aspects of the API and provides functions for retrieving various types of data.
+
+![NBAAPI (1)](https://user-images.githubusercontent.com/116237490/234426894-d1b7ceb9-a945-4c93-b70b-33a99b40587f.gif)
